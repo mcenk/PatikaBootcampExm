@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe8e09f6-3ce5-4c9b-8da2-6d1bebb92c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DaireAlanHesaplama/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VucutKitliIndex/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656766419002</updated>
-      <workItem from="1656766420339" duration="6091000" />
+      <workItem from="1656766420339" duration="6431000" />
     </task>
     <task id="LOCAL-00001" summary="eklemeler yapildi">
       <created>1656766780121</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656794367399</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dairenin alan hesabini yapan uygulama eklendi">
+      <created>1656794828956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656794828956</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="Kdv hesaplama programi eklendi" />
     <MESSAGE value="Dik ucgende hipotenus ve alani hesaplayan uygulama eklendi" />
     <MESSAGE value="Taksimetre hesabi yapan bir uygulama eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taksimetre hesabi yapan bir uygulama eklendi" />
+    <MESSAGE value="Dairenin alan hesabini yapan uygulama eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dairenin alan hesabini yapan uygulama eklendi" />
   </component>
 </project>
