@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe8e09f6-3ce5-4c9b-8da2-6d1bebb92c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OrtalamaHesaplama/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,7 +44,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OrtalamaHesaplama.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentManagement.Main" />
       <module name="PatikaBootcampExm" />
@@ -57,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrtalamaHesaplama.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrtalamaHesaplama.Main" />
+      <module name="PatikaBootcampExm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrtalamaHesaplama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrtalamaHesaplama.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -71,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656766419002</updated>
-      <workItem from="1656766420339" duration="2138000" />
+      <workItem from="1656766420339" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="eklemeler yapildi">
       <created>1656766780121</created>
@@ -94,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656768453581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Calculator eklendi">
+      <created>1656768667291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656768667291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +126,7 @@
     <MESSAGE value="eklemeler yapildi" />
     <MESSAGE value="Student management eklendi" />
     <MESSAGE value="Ogrenci verileri guncellendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ogrenci verileri guncellendi" />
+    <MESSAGE value="Calculator eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator eklendi" />
   </component>
 </project>
